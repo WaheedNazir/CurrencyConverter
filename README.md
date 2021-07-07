@@ -16,7 +16,7 @@ Currency converter sample app. The purpose of this project to illustrate the usa
  11. JetPack Libraries
 
 ### Demo
-<img height="400px" src="https://github.com/WaheedNazir/NewYorkTimesMvvmSample/blob/main/sample/sample.gif" />
+<img height="400px" src="https://github.com/WaheedNazir/CurrencyConverter/blob/main/sample/sample.gif" />
 
 ### Other samples of MVVM using Kotlin
 
