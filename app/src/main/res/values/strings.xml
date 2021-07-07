@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="one">1</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="usd_default_currency">USD</string>
+    <string name="search">Search</string>
+</resources>

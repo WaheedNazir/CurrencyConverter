@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:layout_margin="8dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    app:cardCornerRadius="6dp"
+    app:cardElevation="10dp">
+
+
+    <TextView
+        android:id="@+id/tvToCurrency"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/ic_circle"
+        android:gravity="center"
+        android:maxLines="1"
+        android:textColor="@color/colorWhite"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/tvConversionRate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:maxLines="1"
+        android:textColor="@color/colorBlack"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/tvToCurrency"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</LinearLayout>
