@@ -21,12 +21,12 @@ Currency converter sample app. The purpose of this project to illustrate the usa
 ### Other samples of MVVM using Kotlin
 
 * [Todo-App-Kotlin-MVVM-Hilt] - Todos app developed using Kotlin,MVVM, Hilt, Network Bound Resources etc.
-* [Android-MVVM-RxJava-Movies] - Movies app developed using Kotlin,MVVM, Koin and RxJava etc.
-* [ANdroid-MVVM-Kotlin-Hilt] - New York Times News sample app developed using MVVM, Kotlin, Hilt, Coroutines.
+* [Movies-Android-MVVM-RxJava] - Movies app developed using Kotlin,MVVM, Koin and RxJava etc.
+* [News-Android-MVVM-Kotlin-Hilt] - New York Times News sample app developed using MVVM, Kotlin, Hilt, Coroutines.
 
    [Todo-App-Kotlin-MVVM-Hilt]: <https://github.com/WaheedNazir/TodoKotlinMVVMHilt>
-   [Android-MVVM-RxJava-Movies]: <https://github.com/WaheedNazir/Android-MVVM-RxJava-Movies>
-   [ANdroid-MVVM-Kotlin-Hilt]: <https://github.com/WaheedNazir/NewYorkTimesMvvmSample>
+   [Movies-Android-MVVM-RxJava]: <https://github.com/WaheedNazir/Android-MVVM-RxJava-Movies>
+   [News-Android-MVVM-Kotlin-Hilt]: <https://github.com/WaheedNazir/NewYorkTimesMvvmSample>
 
    
 
