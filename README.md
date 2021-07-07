@@ -26,7 +26,7 @@ Currency converter sample app. The purpose of this project to illustrate the usa
 
    [Todo-App-Kotlin-MVVM-Hilt]: <https://github.com/WaheedNazir/TodoKotlinMVVMHilt>
    [Android-MVVM-RxJava-Movies]: <https://github.com/WaheedNazir/Android-MVVM-RxJava-Movies>
-   [New York Times News Sample]: <https://github.com/WaheedNazir/NewYorkTimesMvvmSample>
+   [ANdroid-MVVM-Kotlin-Hilt]: <https://github.com/WaheedNazir/NewYorkTimesMvvmSample>
 
    
 
