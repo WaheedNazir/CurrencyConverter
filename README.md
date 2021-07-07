@@ -11,7 +11,7 @@ Currency converter sample app. The purpose of this project to illustrate the usa
  6. Unit Testing
  7. Repository Pattern
  8. AndroidX
- 9. NYT News API
+ 9. Currency Layer API (Realtime currency conversion)
  10. Room Database
  11. JetPack Libraries
 
@@ -22,9 +22,11 @@ Currency converter sample app. The purpose of this project to illustrate the usa
 
 * [Todo-App-Kotlin-MVVM-Hilt] - Todos app developed using Kotlin,MVVM, Hilt, Network Bound Resources etc.
 * [Android-MVVM-RxJava-Movies] - Movies app developed using Kotlin,MVVM, Koin and RxJava etc.
+* [ANdroid-MVVM-Kotlin-Hilt] - New York Times News sample app developed using MVVM, Kotlin, Hilt, Coroutines.
 
    [Todo-App-Kotlin-MVVM-Hilt]: <https://github.com/WaheedNazir/TodoKotlinMVVMHilt>
    [Android-MVVM-RxJava-Movies]: <https://github.com/WaheedNazir/Android-MVVM-RxJava-Movies>
+   [New York Times News Sample]: <https://github.com/WaheedNazir/NewYorkTimesMvvmSample>
 
    
 
