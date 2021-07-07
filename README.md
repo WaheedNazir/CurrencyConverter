@@ -33,4 +33,4 @@ Currency converter sample app. The purpose of this project to illustrate the usa
 
 
 ## API Sources
- 1. [New York Times, Developer API](https://developer.nytimes.com/)
+ 1. [Currency Layer (Developer API)](https://api.currencylayer.com/)
