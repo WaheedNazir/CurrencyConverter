@@ -5,6 +5,12 @@ apply plugin: 'kotlin-kapt'
 apply plugin: "androidx.navigation.safeargs.kotlin"
 apply plugin: 'dagger.hilt.android.plugin'
 
+// Read credentials
+def credentialFile = rootProject.file("credentials.properties")
+def credentialProperty = new Properties()
+credentialProperty.load(new FileInputStream(credentialFile))
+
+
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
@@ -15,8 +21,8 @@ android {
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
-        buildConfigField("String", "BASE_URL", "\"https://api.currencylayer.com\"")
-        buildConfigField("String", "API_KEY", "\"b4a44611e620571f914c5b5b50eee31e\"")
+        buildConfigField("String", "BASE_URL", credentialProperty['BASE_URL'])
+        buildConfigField("String", "API_KEY", credentialProperty['API_KEY'])
 
         testInstrumentationRunner "com.sample.currencylayer.HiltTestRunner"
     }
